@@ -1,0 +1,6 @@
+{
+  "name": "Zongzi Catcher",
+  "description": "An engaging game where you catch bouncing Zongzi with a boat in the river.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
