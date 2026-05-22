@@ -109,7 +109,7 @@ export default function App() {
 
         {/* Zongzi */}
         <motion.img
-          src="/zongzi.png"
+          src="zongzi.png"
           alt="Zongzi"
           className="absolute"
           style={{ 
